@@ -1,0 +1,1 @@
+This is a basic exploratory data analysis of the iris dataset. There is also a linear regression model which I have implemented using sklearn. This was my final project for my data science discovery class (stat107) at the University of Illinois Urbana Champaign
